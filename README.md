@@ -5,9 +5,10 @@ Simple ATM Program
 This is a basic ATM program written in C++. It allows users to perform simple banking operations such as checking balance, depositing money, and withdrawing money.
 
 Usage
-Compile the code using a C++ compiler.
-Run the compiled executable.
-Follow the instructions on the screen to perform desired operations.
+-Compile the code using a C++ compiler.
+-Run the compiled executable.
+-Follow the instructions on the screen to perform desired operations.
+
 Menu Options
 The program presents the following menu options:
 
