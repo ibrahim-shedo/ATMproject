@@ -20,5 +20,4 @@ Implementation Details
 The program initializes the account balance to $500.
 It continues to display the menu and prompt the user for options until the user chooses to exit.
 Proper input validation is not implemented in this version of the code. Hence, invalid inputs may cause unexpected behavior.
-Contributions
-Contributions and improvements are welcome. Feel free to fork the repository, make changes, and submit a pull request.
+
