@@ -1,6 +1,4 @@
 
-Here's a simple README for the provided code:
-
 Simple ATM Program
 This is a basic ATM program written in C++. It allows users to perform simple banking operations such as checking balance, depositing money, and withdrawing money.
 
